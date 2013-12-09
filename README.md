@@ -1,2 +1,0 @@
-LevelDB-Android
-==============
